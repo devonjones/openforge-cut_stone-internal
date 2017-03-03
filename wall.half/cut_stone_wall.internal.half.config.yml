@@ -1,0 +1,14 @@
+base:
+  - ../../parts/wall_base/internal/cut_stone_wall_base.
+  - .internal.stl
+back:
+  - ../../parts/wall_back/internal.half/cut_stone_wall_back.
+  - .internal.half.1.stl
+x-min: 1
+x-max: 4
+y-min: 1
+y-max: 4
+result:
+  - cut_stone_wall.
+  - .internal.half.stl
+external: false
