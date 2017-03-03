@@ -1,3 +1,4 @@
+*.blend
 *.blend[123456]
 intermediate/
 *.sw[po]
